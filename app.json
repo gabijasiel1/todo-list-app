@@ -3,6 +3,9 @@
     "name": "todo-list-app",
     "slug": "todo-list-app",
     "version": "1.0.0",
+    "experiments": {
+      "baseUrl": "/todo-list-app"
+    },
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
